@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlperGith
-- 👀 I’m interested in Information Technology, Artificial Intelligence, Embedded Systems, Web Development.
-- 🌱 I’m currently learning basics of Information Technology
-- 💞️ I’m looking to collaborate on where I can improve myself in the IT field.
+- 👀 I’m interested in Artificial Intelligence, Embedded Systems,Information Technology, Web Development.
+- 🌱 I’m currently learning basics of Information Technology.
+- 💞️ I’m looking to collaborate on where I can improve myself in the these fields.
 - 📫 How to reach me alper-tmzl@hotmail.com
 
 <!---
